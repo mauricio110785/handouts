@@ -1,6 +1,6 @@
 # README.md
 
-A `README.md` file is a very useful component of any project repository. As you can (or may soon) see, it is automatically rendered on GitHub as a simple "homepage" for your project. Instructions for creating your own GitHub repository from these files may be given during the course. The same instructions are also summarized in [CONTRIBUTING.md].
+The goal of this group is model the association between land use change and disease transmission in the amazon region. We will focus in connect how to socioeconomic level, human movene and behaviours interact to determine disease risk 
 
 ## Data
 
@@ -9,6 +9,8 @@ If the repository does not contain a data folder, [download] a zipped data file 
 ## Collaborators
 
 - Mauricio Santos
+- Andres Baeza
+- Raquel lana 
 
 [download]: https://files.sesync.org/pydio/public/09bb83
 [CONTRIBUTING.md]: CONTRIBUTING.md
